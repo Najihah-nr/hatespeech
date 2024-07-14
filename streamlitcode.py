@@ -15,6 +15,7 @@ from PIL import Image
 nltk.download('punkt')
 nltk.download('wordnet')
 nltk.download('averaged_perceptron_tagger')
+pip install streamlit-option-menu
 img = Image.open('icon.png')
 st.set_page_config(page_title='Hate Speech Detection',page_icon=img)
 
