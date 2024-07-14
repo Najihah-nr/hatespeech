@@ -1,6 +1,0 @@
-streamlit
-streamlit-option-menu
-nltk
-scikit-learn
-pandas
-pillow
