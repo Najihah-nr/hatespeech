@@ -1,0 +1,11 @@
+streamlit
+pandas
+altair
+base64
+nltk
+cleantext
+scikit-learn
+joblib
+vaderSentiment
+streamlit-option-menu
+pillow
